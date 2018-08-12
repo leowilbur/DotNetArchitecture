@@ -1,0 +1,43 @@
+﻿# Directories and Files
+*.bat
+*.log
+*.obj
+*.pdb
+*.tmp
+*.vspscc
+*.vssscc
+dist
+node_modules
+package-lock.json
+
+# MSBuild Results
+[Bb]in/
+[Dd]ebug/
+[Ll]og/
+[Oo]bj/
+[Rr]elease/
+[Rr]eleases/
+
+# MSTest Results
+[Tt]est[Rr]esults/
+
+# NuGet Packages
+*.nuget.props
+*.nuget.targets
+*.nupkg
+[Pp]ackages/
+
+# Publish
+*.[Pp]ublish.xml
+*.pubxml
+publish
+
+# SQL Server
+*.ldf
+*.mdf
+
+# Visual Studio Files
+*.suo
+*.user
+*.userosscache
+.vs
